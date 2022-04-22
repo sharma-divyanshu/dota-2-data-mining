@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+datasets/
 develop-eggs/
 dist/
 downloads/
@@ -20,6 +21,7 @@ parts/
 sdist/
 var/
 wheels/
+.ipynb_checkpoints/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
